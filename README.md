@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Hisse Senedi Fiyat Analizi</title>
 </head>
 <body>
 
@@ -50,26 +49,4 @@
     </li>
   </ol>
 
-  <h2>📊 Çıktılar</h2>
-  <p>
-    Bu defteri çalıştırdığınızda:
-  </p>
-  <ul>
-    <li>Apple hissesinin seçili tarih aralığında kapanış fiyatları çizilir.</li>
-    <li>Kısa vadeli (20 günlük) hareketli ortalama grafiğe eklenir.</li>
-    <li>Fiyat trendini daha anlaşılır görmek için görseller elde edilir.</li>
-  </ul>
-
-  <h2>✨ Notlar</h2>
-  <p>
-    Tarih aralığını ve hisse sembolünü değiştirerek farklı hisse senetleri üzerinde aynı analiz uygulanabilir.<br>
-    Bu proje <strong>yatırım tavsiyesi değildir</strong>; sadece temel analiz tekniklerini öğretmek amacıyla hazırlanmıştır.
-  </p>
-
-  <h2>📚 Lisans</h2>
-  <p>
-    Bu proje, eğitim amaçlıdır. Ticari kullanım için uygun değildir.
-  </p>
-
-</body>
-</html>
+ 
